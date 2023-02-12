@@ -1,0 +1,42 @@
+1.,
+CREATE DATABASE Vizsga;
+USE Vizsga;
+
+CREATE TABLE Versenyzok (
+	azon int NOT NULL AUTO_INCREMENT,
+	nev varchar(255),
+	tantargy varchar(255),
+	szazalek int,
+	PRIMARY KEY (azon)
+);
+
+INSERT INTO Versenyzok (nev, tantargy, szazalek) VALUES ('Nagy Huba', 'info', '90');
+INSERT INTO Versenyzok (nev, tantargy, szazalek) VALUES ('Kiss Miska', 'festészet', '72');
+INSERT INTO Versenyzok (nev, tantargy, szazalek) VALUES ('Közepes Ede', 'matek', '63');
+INSERT INTO Versenyzok (nev, tantargy, szazalek) VALUES ('Teszt Elek', 'kerteszet', '92');
+INSERT INTO Versenyzok (nev, tantargy, szazalek) VALUES ('Kertész Edvárd', 'virágkötészet', '76');
+
+3.,
+SELECT * FROM Versenyzok WHERE tantargy = 'info';
+
+4.,
+UPDATE Versenyzok SET tantargy='erdészet' WHERE nev = 'Teszt Elek';
+
+5.,
+SELECT AVG(szazalek) AS 'atlag' FROM Versenyzok;
+
+6., ez még nem jó
+SELECT * FROM `Versenyzok` WHERE szazalek > '90' ORDER BY nev ASC;
+SELECT * FROM `Versenyzok` WHERE szazalek > MAX(HAVING tantargy = 'info') ORDER BY nev ASC;
+
+7.,
+SELECT tantargy, COUNT(azon) AS 'darab' FROM versenyzok GROUP BY tantargy;
+
+8.,
+
+
+9.,
+
+
+10.,
+DELETE FROM versenyzok WHERE nev = 'Közepes Ede';

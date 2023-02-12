@@ -1,0 +1,3 @@
+1;Zoli;info;26
+2;Viki;matek;90
+3;Bogi;magyar;51

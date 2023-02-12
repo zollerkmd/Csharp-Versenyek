@@ -1,0 +1,14 @@
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.csproj.AssemblyReference.cache
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.AssemblyInfoInputs.cache
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.AssemblyInfo.cs
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.csproj.CoreCompileInputs.cache
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\bin\Debug\netcoreapp3.1\Verseny.exe
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\bin\Debug\netcoreapp3.1\Verseny.deps.json
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\bin\Debug\netcoreapp3.1\Verseny.runtimeconfig.json
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\bin\Debug\netcoreapp3.1\Verseny.runtimeconfig.dev.json
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\bin\Debug\netcoreapp3.1\Verseny.dll
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\bin\Debug\netcoreapp3.1\Verseny.pdb
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.dll
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.pdb
+C:\Users\zollerkmd\source\repos\Verseny\Verseny\obj\Debug\netcoreapp3.1\Verseny.genruntimeconfig.cache
